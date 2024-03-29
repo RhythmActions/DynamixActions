@@ -1,0 +1,2 @@
+# DynamixActions
+使用GithubActions全自动获取Dynamix游戏资源
