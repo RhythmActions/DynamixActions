@@ -17,7 +17,7 @@ permissions: write-all
 
 jobs:
   build:
-    name: 'Extract GameInfo Operations'
+    name: 'Extract SongList Operations'
     runs-on: "windows-latest"
 
     steps:
