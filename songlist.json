@@ -1,5 +1,8 @@
 {
     "id": [
+        "HeracleS",
+        "TheDystopiasTomorrow",
+        "FUNK_TIME",
         "Phoenixismia",
         "GIFT",
         "EphemeralEcho",
@@ -510,6 +513,99 @@
         "Hiyaiya"
     ],
     "Songs": {
+        "HeracleS": {
+            "id": "_song_HeracleS",
+            "Name": "HeracleS",
+            "BPM": 191.0,
+            "Genre": "Schranz",
+            "Author": "打打だいず vs. siromaru",
+            "PreviewAudio": "_preview_HeracleS",
+            "Cover": "_cover_HeracleS",
+            "Maps": [
+                {
+                    "combo": 741,
+                    "id": "_map_HeracleS_N",
+                    "level": 7,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 1202,
+                    "id": "_map_HeracleS_H",
+                    "level": 10,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1566,
+                    "id": "_map_HeracleS_M",
+                    "level": 14,
+                    "LevelName": 3
+                },
+                {
+                    "combo": 1928,
+                    "id": "_map_HeracleS_G",
+                    "level": 15,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "TheDystopiasTomorrow": {
+            "id": "_song_TheDystopiasTomorrow",
+            "Name": "The Dystopia's Tomorrow",
+            "BPM": 200.0,
+            "Genre": "Artcore",
+            "Author": "Moonset",
+            "PreviewAudio": "_preview_TheDystopiasTomorrow",
+            "Cover": "_cover_TheDystopiasTomorrow",
+            "Maps": [
+                {
+                    "combo": 198,
+                    "id": "_map_TheDystopiasTomorrow_B",
+                    "level": 1,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 796,
+                    "id": "_map_TheDystopiasTomorrow_N",
+                    "level": 6,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 1147,
+                    "id": "_map_TheDystopiasTomorrow_G",
+                    "level": 13,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "FUNK_TIME": {
+            "id": "_song_FUNK_TIME",
+            "Name": "FUNK TIME!!!",
+            "BPM": 180.0,
+            "Genre": "Hi-Tech",
+            "Author": "RAYの丼/VQMD",
+            "PreviewAudio": "_preview_FUNK_TIME",
+            "Cover": "_cover_FUNK_TIME",
+            "Maps": [
+                {
+                    "combo": 493,
+                    "id": "_map_FUNK_TIME_B",
+                    "level": 3,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 1086,
+                    "id": "_map_FUNK_TIME_H",
+                    "level": 9,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1500,
+                    "id": "_map_FUNK_TIME_M",
+                    "level": 14,
+                    "LevelName": 3
+                }
+            ]
+        },
         "Phoenixismia": {
             "id": "_song_Phoenixismia",
             "Name": "Phoenixismia",
@@ -16030,5 +16126,5 @@
         }
     },
     "ver": "3.18.00",
-    "updateTime": "2024-04-03 18:19:32"
+    "updateTime": "2024-04-26 17:59:07"
 }
