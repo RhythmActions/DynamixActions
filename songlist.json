@@ -1,5 +1,6 @@
 {
     "id": [
+        "Supernova",
         "HeracleS",
         "TheDystopiasTomorrow",
         "FUNK_TIME",
@@ -513,6 +514,35 @@
         "Hiyaiya"
     ],
     "Songs": {
+        "Supernova": {
+            "id": "_song_Supernova",
+            "Name": "Supernova",
+            "BPM": 150.0,
+            "Genre": "Hi-Tech",
+            "Author": "Synthtonix",
+            "PreviewAudio": "_preview_Supernova",
+            "Cover": "_cover_Supernova",
+            "Maps": [
+                {
+                    "combo": 534,
+                    "id": "_map_Supernova_N",
+                    "level": 5,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 893,
+                    "id": "_map_Supernova_H",
+                    "level": 9,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1412,
+                    "id": "_map_Supernova_M",
+                    "level": 13,
+                    "LevelName": 3
+                }
+            ]
+        },
         "HeracleS": {
             "id": "_song_HeracleS",
             "Name": "HeracleS",
@@ -16126,5 +16156,5 @@
         }
     },
     "ver": "3.18.00",
-    "updateTime": "2024-04-26 17:59:07"
+    "updateTime": "2024-05-04 16:52:25"
 }
