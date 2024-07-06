@@ -1,5 +1,11 @@
 {
     "id": [
+        "ResonanceOfSoul",
+        "BonusTime",
+        "WutheringWind",
+        "AbyssBreaker",
+        "huozhe",
+        "TheDefiantsAnthem",
         "Supernova",
         "HeracleS",
         "TheDystopiasTomorrow",
@@ -514,6 +520,180 @@
         "Hiyaiya"
     ],
     "Songs": {
+        "ResonanceOfSoul": {
+            "id": "_song_ResonanceOfSoul",
+            "Name": "Resonance of Soul",
+            "BPM": 250.0,
+            "Genre": "Hardcore",
+            "Author": "裸(ﾗｵｳ)王",
+            "PreviewAudio": "_preview_ResonanceOfSoul",
+            "Cover": "_cover_ResonanceOfSoul",
+            "Maps": [
+                {
+                    "combo": 498,
+                    "id": "_map_ResonanceOfSoul_N",
+                    "level": 6,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 701,
+                    "id": "_map_ResonanceOfSoul_H",
+                    "level": 8,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1270,
+                    "id": "_map_ResonanceOfSoul_M",
+                    "level": 13,
+                    "LevelName": 3
+                }
+            ]
+        },
+        "BonusTime": {
+            "id": "_song_BonusTime",
+            "Name": "Bonus Time",
+            "BPM": 234.0,
+            "Genre": "Happy Hardcore",
+            "Author": "Neple",
+            "PreviewAudio": "_preview_BonusTime",
+            "Cover": "_cover_BonusTime",
+            "Maps": [
+                {
+                    "combo": 512,
+                    "id": "_map_BonusTime_B",
+                    "level": 3,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 1527,
+                    "id": "_map_BonusTime_M",
+                    "level": 13,
+                    "LevelName": 3
+                },
+                {
+                    "combo": 1604,
+                    "id": "_map_BonusTime_G",
+                    "level": 15,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "WutheringWind": {
+            "id": "_song_WutheringWind",
+            "Name": "Wuthering Wind",
+            "BPM": 174.0,
+            "Genre": "HardPsy",
+            "Author": "Takahiro Aoki",
+            "PreviewAudio": "_preview_WutheringWind",
+            "Cover": "_cover_WutheringWind",
+            "Maps": [
+                {
+                    "combo": 293,
+                    "id": "_map_WutheringWind_B",
+                    "level": 1,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 837,
+                    "id": "_map_WutheringWind_H",
+                    "level": 7,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1338,
+                    "id": "_map_WutheringWind_M",
+                    "level": 12,
+                    "LevelName": 3
+                }
+            ]
+        },
+        "AbyssBreaker": {
+            "id": "_song_AbyssBreaker",
+            "Name": "Abyss Breaker",
+            "BPM": 195.0,
+            "Genre": "Artcore",
+            "Author": "打打だいず",
+            "PreviewAudio": "_preview_AbyssBreaker",
+            "Cover": "_cover_AbyssBreaker",
+            "Maps": [
+                {
+                    "combo": 414,
+                    "id": "_map_AbyssBreaker_B",
+                    "level": 3,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 1151,
+                    "id": "_map_AbyssBreaker_H",
+                    "level": 10,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1599,
+                    "id": "_map_AbyssBreaker_G",
+                    "level": 15,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "huozhe": {
+            "id": "_song_huozhe",
+            "Name": "活著",
+            "BPM": 216.0,
+            "Genre": "Artcore",
+            "Author": "Zero D Max",
+            "PreviewAudio": "_preview_huozhe",
+            "Cover": "_cover_huozhe",
+            "Maps": [
+                {
+                    "combo": 695,
+                    "id": "_map_huozhe_N",
+                    "level": 6,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 1682,
+                    "id": "_map_huozhe_M",
+                    "level": 11,
+                    "LevelName": 3
+                },
+                {
+                    "combo": 1554,
+                    "id": "_map_huozhe_G",
+                    "level": 15,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "TheDefiantsAnthem": {
+            "id": "_song_TheDefiantsAnthem",
+            "Name": "The Defiant's Anthem",
+            "BPM": 200.0,
+            "Genre": "Hardcore",
+            "Author": "Takahiro Aoki",
+            "PreviewAudio": "_preview_TheDefiantsAnthem",
+            "Cover": "_cover_TheDefiantsAnthem",
+            "Maps": [
+                {
+                    "combo": 618,
+                    "id": "_map_TheDefiantsAnthem_N",
+                    "level": 5,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 1197,
+                    "id": "_map_TheDefiantsAnthem_M",
+                    "level": 12,
+                    "LevelName": 3
+                },
+                {
+                    "combo": 1471,
+                    "id": "_map_TheDefiantsAnthem_G",
+                    "level": 14,
+                    "LevelName": 4
+                }
+            ]
+        },
         "Supernova": {
             "id": "_song_Supernova",
             "Name": "Supernova",
@@ -555,7 +735,7 @@
                 {
                     "combo": 741,
                     "id": "_map_HeracleS_N",
-                    "level": 7,
+                    "level": 8,
                     "LevelName": 1
                 },
                 {
@@ -677,7 +857,7 @@
                 {
                     "combo": 562,
                     "id": "_map_GIFT_B",
-                    "level": 3,
+                    "level": 5,
                     "LevelName": 0
                 },
                 {
@@ -712,7 +892,7 @@
                 {
                     "combo": 432,
                     "id": "_map_EphemeralEcho_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
@@ -741,7 +921,7 @@
                 {
                     "combo": 641,
                     "id": "_map_Sleepless_B",
-                    "level": 2,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -846,7 +1026,7 @@
                 {
                     "combo": 1474,
                     "id": "_map_BitTechComputer_M",
-                    "level": 14,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -921,7 +1101,7 @@
                 {
                     "combo": 791,
                     "id": "_map_Hauynite_B",
-                    "level": 4,
+                    "level": 5,
                     "LevelName": 0
                 },
                 {
@@ -950,13 +1130,13 @@
                 {
                     "combo": 636,
                     "id": "_map_Assassin_B",
-                    "level": 2,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
                     "combo": 908,
                     "id": "_map_Assassin_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 },
                 {
@@ -1055,7 +1235,7 @@
                 {
                     "combo": 1226,
                     "id": "_map_WelcomeSSSpooky_G",
-                    "level": 14,
+                    "level": 13,
                     "LevelName": 4
                 }
             ]
@@ -1101,19 +1281,19 @@
                 {
                     "combo": 919,
                     "id": "_map_UnidentifiedNewEntry_N",
-                    "level": 7,
+                    "level": 8,
                     "LevelName": 1
                 },
                 {
                     "combo": 1064,
                     "id": "_map_UnidentifiedNewEntry_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
                     "combo": 1145,
                     "id": "_map_UnidentifiedNewEntry_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -1171,7 +1351,7 @@
                 {
                     "combo": 1170,
                     "id": "_map_ChimiTaiten_M",
-                    "level": 14,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -1281,13 +1461,13 @@
                 {
                     "combo": 843,
                     "id": "_map_CityGirlInTheLove_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
                     "combo": 1234,
                     "id": "_map_CityGirlInTheLove_G",
-                    "level": 14,
+                    "level": 13,
                     "LevelName": 4
                 }
             ]
@@ -1304,7 +1484,7 @@
                 {
                     "combo": 454,
                     "id": "_map_Ragnarok_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -1333,13 +1513,13 @@
                 {
                     "combo": 913,
                     "id": "_map_MegaPop_N",
-                    "level": 4,
+                    "level": 5,
                     "LevelName": 1
                 },
                 {
                     "combo": 1158,
                     "id": "_map_MegaPop_H",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 2
                 },
                 {
@@ -1467,13 +1647,13 @@
                 {
                     "combo": 1020,
                     "id": "_map_Ennor_N",
-                    "level": 7,
+                    "level": 8,
                     "LevelName": 1
                 },
                 {
                     "combo": 1290,
                     "id": "_map_Ennor_H",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 2
                 },
                 {
@@ -1572,7 +1752,7 @@
                 {
                     "combo": 1334,
                     "id": "_map_UltimateLachesism_G",
-                    "level": 15,
+                    "level": 14,
                     "LevelName": 4
                 }
             ]
@@ -1653,7 +1833,7 @@
                 {
                     "combo": 948,
                     "id": "_map_Kyubi_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -1665,7 +1845,7 @@
                 {
                     "combo": 1381,
                     "id": "_map_Kyubi_G",
-                    "level": 14,
+                    "level": 15,
                     "LevelName": 4
                 }
             ]
@@ -1682,19 +1862,19 @@
                 {
                     "combo": 507,
                     "id": "_map_Eldredth_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
                     "combo": 771,
                     "id": "_map_Eldredth_N",
-                    "level": 5,
+                    "level": 7,
                     "LevelName": 1
                 },
                 {
                     "combo": 1021,
                     "id": "_map_Eldredth_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -1729,7 +1909,7 @@
                 {
                     "combo": 919,
                     "id": "_map_Isera_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -1770,7 +1950,7 @@
                 {
                     "combo": 1495,
                     "id": "_map_Decoherence_M",
-                    "level": 13,
+                    "level": 14,
                     "LevelName": 3
                 }
             ]
@@ -1834,7 +2014,7 @@
                 {
                     "combo": 1041,
                     "id": "_map_VirtualNature_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -1939,7 +2119,7 @@
                 {
                     "combo": 1278,
                     "id": "_map_PolarisAustralis_G",
-                    "level": 14,
+                    "level": 15,
                     "LevelName": 4
                 }
             ]
@@ -1997,7 +2177,7 @@
                 {
                     "combo": 1373,
                     "id": "_map_YouWereWithABoy_M",
-                    "level": 13,
+                    "level": 14,
                     "LevelName": 3
                 }
             ]
@@ -2049,13 +2229,13 @@
                 {
                     "combo": 570,
                     "id": "_map_2000Volt_B",
-                    "level": 5,
+                    "level": 6,
                     "LevelName": 0
                 },
                 {
                     "combo": 1312,
                     "id": "_map_2000Volt_M",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 3
                 },
                 {
@@ -2113,13 +2293,13 @@
                 {
                     "combo": 1333,
                     "id": "_map_BackOut_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 },
                 {
                     "combo": 1333,
                     "id": "_map_BackOut_G",
-                    "level": 15,
+                    "level": 14,
                     "LevelName": 4
                 }
             ]
@@ -2136,13 +2316,13 @@
                 {
                     "combo": 424,
                     "id": "_map_UnsungHero_N",
-                    "level": 4,
+                    "level": 5,
                     "LevelName": 1
                 },
                 {
                     "combo": 818,
                     "id": "_map_UnsungHero_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -2206,13 +2386,13 @@
                 {
                     "combo": 523,
                     "id": "_map_Freewheeling_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
                     "combo": 867,
                     "id": "_map_Freewheeling_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -2264,7 +2444,7 @@
                 {
                     "combo": 850,
                     "id": "_map_Pollux_N",
-                    "level": 6,
+                    "level": 7,
                     "LevelName": 1
                 },
                 {
@@ -2305,7 +2485,7 @@
                 {
                     "combo": 833,
                     "id": "_map_InAVat_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -2340,13 +2520,13 @@
                 {
                     "combo": 1138,
                     "id": "_map_WarInTheMirrorworld_H",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 2
                 },
                 {
                     "combo": 1309,
                     "id": "_map_WarInTheMirrorworld_M",
-                    "level": 14,
+                    "level": 15,
                     "LevelName": 3
                 },
                 {
@@ -2375,7 +2555,7 @@
                 {
                     "combo": 1504,
                     "id": "_map_TechNique_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 },
                 {
@@ -2433,7 +2613,7 @@
                 {
                     "combo": 1044,
                     "id": "_map_SpookyMacaron_M",
-                    "level": 14,
+                    "level": 13,
                     "LevelName": 3
                 },
                 {
@@ -2456,7 +2636,7 @@
                 {
                     "combo": 177,
                     "id": "_map_Acrise_B",
-                    "level": 3,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -2520,7 +2700,7 @@
                 {
                     "combo": 208,
                     "id": "_map_Viatores_N",
-                    "level": 5,
+                    "level": 4,
                     "LevelName": 1
                 },
                 {
@@ -2561,13 +2741,13 @@
                 {
                     "combo": 473,
                     "id": "_map_RavingInHalloween_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
                     "combo": 834,
                     "id": "_map_RavingInHalloween_M",
-                    "level": 13,
+                    "level": 14,
                     "LevelName": 3
                 }
             ]
@@ -2596,7 +2776,7 @@
                 {
                     "combo": 760,
                     "id": "_map_VogueFlavour_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -2671,7 +2851,7 @@
                 {
                     "combo": 177,
                     "id": "_map_MousouChu_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -2706,7 +2886,7 @@
                 {
                     "combo": 824,
                     "id": "_map_RiotFlavor_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -2735,13 +2915,13 @@
                 {
                     "combo": 1122,
                     "id": "_map_SushiTornado_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
                     "combo": 1269,
                     "id": "_map_SushiTornado_M",
-                    "level": 13,
+                    "level": 14,
                     "LevelName": 3
                 }
             ]
@@ -2770,7 +2950,7 @@
                 {
                     "combo": 784,
                     "id": "_map_NyandaFuruSama_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -2857,7 +3037,7 @@
                 {
                     "combo": 1187,
                     "id": "_map_BlueberryCheesecake_M",
-                    "level": 13,
+                    "level": 14,
                     "LevelName": 3
                 }
             ]
@@ -2973,7 +3153,7 @@
                 {
                     "combo": 353,
                     "id": "_map_DuskyDisslove_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -3008,7 +3188,7 @@
                 {
                     "combo": 287,
                     "id": "_map_LetTheBassKick_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -3078,7 +3258,7 @@
                 {
                     "combo": 1221,
                     "id": "_map_NOVA_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -3107,13 +3287,13 @@
                 {
                     "combo": 817,
                     "id": "_map_ReCorrect_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
                     "combo": 1460,
                     "id": "_map_ReCorrect_M",
-                    "level": 14,
+                    "level": 13,
                     "LevelName": 3
                 },
                 {
@@ -3177,7 +3357,7 @@
                 {
                     "combo": 904,
                     "id": "_map_HoshinoOtoshimono_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 }
             ]
@@ -3247,7 +3427,7 @@
                 {
                     "combo": 721,
                     "id": "_map_Nightseeker_M",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 3
                 }
             ]
@@ -3305,7 +3485,7 @@
                 {
                     "combo": 1361,
                     "id": "_map_MidNightMetropolitanHighway_M",
-                    "level": 13,
+                    "level": 14,
                     "LevelName": 3
                 }
             ]
@@ -3357,7 +3537,7 @@
                 {
                     "combo": 861,
                     "id": "_map_KalisMind_H",
-                    "level": 9,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -3392,7 +3572,7 @@
                 {
                     "combo": 656,
                     "id": "_map_BigBeatsBlow_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -3421,7 +3601,7 @@
                 {
                     "combo": 1286,
                     "id": "_map_Shinobi_M",
-                    "level": 13,
+                    "level": 14,
                     "LevelName": 3
                 }
             ]
@@ -3560,7 +3740,7 @@
                 {
                     "combo": 199,
                     "id": "_map_SpaceRunners_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -3589,7 +3769,7 @@
                 {
                     "combo": 133,
                     "id": "_map_HyperspaceJump_B",
-                    "level": 2,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -3618,7 +3798,7 @@
                 {
                     "combo": 255,
                     "id": "_map_428DanceShowcase_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -3676,7 +3856,7 @@
                 {
                     "combo": 151,
                     "id": "_map_Calling_B",
-                    "level": 2,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -3711,7 +3891,7 @@
                 {
                     "combo": 470,
                     "id": "_map_SugarHigh_H",
-                    "level": 10,
+                    "level": 8,
                     "LevelName": 2
                 },
                 {
@@ -3740,7 +3920,7 @@
                 {
                     "combo": 651,
                     "id": "_map_HappinessBread_H",
-                    "level": 9,
+                    "level": 8,
                     "LevelName": 2
                 },
                 {
@@ -3908,7 +4088,7 @@
                 {
                     "combo": 198,
                     "id": "_map_Antithesis_N",
-                    "level": 5,
+                    "level": 4,
                     "LevelName": 1
                 },
                 {
@@ -3949,7 +4129,7 @@
                 {
                     "combo": 1337,
                     "id": "_map_PIXEVLAZZ_M",
-                    "level": 13,
+                    "level": 14,
                     "LevelName": 3
                 }
             ]
@@ -3972,13 +4152,13 @@
                 {
                     "combo": 358,
                     "id": "_map_CrossTime_N",
-                    "level": 5,
+                    "level": 6,
                     "LevelName": 1
                 },
                 {
                     "combo": 709,
                     "id": "_map_CrossTime_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 }
             ]
@@ -3995,7 +4175,7 @@
                 {
                     "combo": 139,
                     "id": "_map_DepthOfMem0ry_B",
-                    "level": 3,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -4065,7 +4245,7 @@
                 {
                     "combo": 872,
                     "id": "_map_SmileEncounter_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -4088,7 +4268,7 @@
                 {
                     "combo": 880,
                     "id": "_map_Whirlwind_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -4100,7 +4280,7 @@
                 {
                     "combo": 1090,
                     "id": "_map_Whirlwind_G",
-                    "level": 14,
+                    "level": 13,
                     "LevelName": 4
                 }
             ]
@@ -4123,7 +4303,7 @@
                 {
                     "combo": 833,
                     "id": "_map_XD_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -4204,7 +4384,7 @@
                 {
                     "combo": 303,
                     "id": "_map_HeartOfGlass_B",
-                    "level": 4,
+                    "level": 5,
                     "LevelName": 0
                 },
                 {
@@ -4216,7 +4396,7 @@
                 {
                     "combo": 702,
                     "id": "_map_HeartOfGlass_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 }
             ]
@@ -4390,7 +4570,7 @@
                 {
                     "combo": 1105,
                     "id": "_map_MindBlast_G",
-                    "level": 14,
+                    "level": 13,
                     "LevelName": 4
                 }
             ]
@@ -4442,7 +4622,7 @@
                 {
                     "combo": 904,
                     "id": "_map_LastArcady_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -4465,7 +4645,7 @@
                 {
                     "combo": 209,
                     "id": "_map_HighSchoolQueen_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -4895,19 +5075,19 @@
                 {
                     "combo": 235,
                     "id": "_map_VenusInvader_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
                     "combo": 720,
                     "id": "_map_VenusInvader_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
                     "combo": 942,
                     "id": "_map_VenusInvader_M",
-                    "level": 14,
+                    "level": 12,
                     "LevelName": 3
                 }
             ]
@@ -4924,7 +5104,7 @@
                 {
                     "combo": 124,
                     "id": "_map_ForbiddenArea_B",
-                    "level": 2,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -5023,7 +5203,7 @@
                 {
                     "combo": 1027,
                     "id": "_map_Hope_M",
-                    "level": 13,
+                    "level": 11,
                     "LevelName": 3
                 }
             ]
@@ -5046,7 +5226,7 @@
                 {
                     "combo": 769,
                     "id": "_map_MassControl_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -5069,7 +5249,7 @@
                 {
                     "combo": 197,
                     "id": "_map_NowIsTheTime_DoIt_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -5110,7 +5290,7 @@
                 {
                     "combo": 1071,
                     "id": "_map_DestroY_StresS_M",
-                    "level": 14,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -5197,7 +5377,7 @@
                 {
                     "combo": 145,
                     "id": "_map_Fireworks_B",
-                    "level": 2,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -5226,19 +5406,19 @@
                 {
                     "combo": 91,
                     "id": "_map_NaCl_B",
-                    "level": 3,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
                     "combo": 208,
                     "id": "_map_NaCl_N",
-                    "level": 6,
+                    "level": 4,
                     "LevelName": 1
                 },
                 {
                     "combo": 477,
                     "id": "_map_NaCl_H",
-                    "level": 9,
+                    "level": 8,
                     "LevelName": 2
                 }
             ]
@@ -5284,7 +5464,7 @@
                 {
                     "combo": 149,
                     "id": "_map_Tenebris_B",
-                    "level": 2,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -5302,7 +5482,7 @@
                 {
                     "combo": 1051,
                     "id": "_map_Tenebris_G",
-                    "level": 14,
+                    "level": 13,
                     "LevelName": 4
                 }
             ]
@@ -5348,7 +5528,7 @@
                 {
                     "combo": 128,
                     "id": "_map_Chromosphere_B",
-                    "level": 2,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -5377,7 +5557,7 @@
                 {
                     "combo": 111,
                     "id": "_map_MOONLIT_PARTY_B",
-                    "level": 2,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -5441,7 +5621,7 @@
                 {
                     "combo": 684,
                     "id": "_map_DeadMaster_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -5464,7 +5644,7 @@
                 {
                     "combo": 165,
                     "id": "_map_VectorMatrix_B",
-                    "level": 2,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -5528,13 +5708,13 @@
                 {
                     "combo": 200,
                     "id": "_map_EmptyStars_N",
-                    "level": 5,
+                    "level": 4,
                     "LevelName": 1
                 },
                 {
                     "combo": 676,
                     "id": "_map_EmptyStars_H",
-                    "level": 10,
+                    "level": 8,
                     "LevelName": 2
                 }
             ]
@@ -5551,7 +5731,7 @@
                 {
                     "combo": 122,
                     "id": "_map_Skrik_B",
-                    "level": 3,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -5580,7 +5760,7 @@
                 {
                     "combo": 225,
                     "id": "_map_Faithtival_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -5679,7 +5859,7 @@
                 {
                     "combo": 163,
                     "id": "_map_Hall_of_Fame_B",
-                    "level": 2,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -5691,7 +5871,7 @@
                 {
                     "combo": 1168,
                     "id": "_map_Hall_of_Fame_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -5848,7 +6028,7 @@
                 {
                     "combo": 835,
                     "id": "_map_SultanMadness_M",
-                    "level": 13,
+                    "level": 11,
                     "LevelName": 3
                 }
             ]
@@ -5993,7 +6173,7 @@
                 {
                     "combo": 1137,
                     "id": "_map_Youth_M",
-                    "level": 11,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -6016,7 +6196,7 @@
                 {
                     "combo": 933,
                     "id": "_map_ThePath_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -6103,13 +6283,13 @@
                 {
                     "combo": 715,
                     "id": "_map_demonic_juggernauts_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
                     "combo": 982,
                     "id": "_map_demonic_juggernauts_M",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 3
                 }
             ]
@@ -6138,7 +6318,7 @@
                 {
                     "combo": 780,
                     "id": "_map_Stargazer_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -6208,7 +6388,7 @@
                 {
                     "combo": 710,
                     "id": "_map_Knight_of_Tripletz_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -6295,13 +6475,13 @@
                 {
                     "combo": 510,
                     "id": "_map_Perpetual_N",
-                    "level": 4,
+                    "level": 5,
                     "LevelName": 1
                 },
                 {
                     "combo": 1089,
                     "id": "_map_Perpetual_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -6417,7 +6597,7 @@
                 {
                     "combo": 1036,
                     "id": "_map_soar_to_O_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -6533,7 +6713,7 @@
                 {
                     "combo": 1099,
                     "id": "_map_Class_memories_M",
-                    "level": 13,
+                    "level": 11,
                     "LevelName": 3
                 }
             ]
@@ -6730,7 +6910,7 @@
                 {
                     "combo": 222,
                     "id": "_map_Life_Style_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -6771,7 +6951,7 @@
                 {
                     "combo": 782,
                     "id": "_map_BLUFF_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -6881,7 +7061,7 @@
                 {
                     "combo": 786,
                     "id": "_map_Mechanismos_ton_Antikythiron_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -7003,7 +7183,7 @@
                 {
                     "combo": 883,
                     "id": "_map_Anokumene_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -7055,7 +7235,7 @@
                 {
                     "combo": 214,
                     "id": "_map_Wish_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -7154,7 +7334,7 @@
                 {
                     "combo": 667,
                     "id": "_map_TheClockworkDoll_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -7299,7 +7479,7 @@
                 {
                     "combo": 754,
                     "id": "_map_NightmareGirl_M",
-                    "level": 13,
+                    "level": 11,
                     "LevelName": 3
                 }
             ]
@@ -7328,7 +7508,7 @@
                 {
                     "combo": 1067,
                     "id": "_map_BlackMagnam_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 },
                 {
@@ -7415,13 +7595,13 @@
                 {
                     "combo": 214,
                     "id": "_map_IceChandelier_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
                     "combo": 421,
                     "id": "_map_IceChandelier_N",
-                    "level": 6,
+                    "level": 5,
                     "LevelName": 1
                 },
                 {
@@ -7485,7 +7665,7 @@
                 {
                     "combo": 379,
                     "id": "_map_SummerMelancholy_N",
-                    "level": 4,
+                    "level": 5,
                     "LevelName": 1
                 },
                 {
@@ -7555,7 +7735,7 @@
                 {
                     "combo": 1109,
                     "id": "_map_CrystalClearSky_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -7578,13 +7758,13 @@
                 {
                     "combo": 845,
                     "id": "_map_EnvyLuvsMelancholy_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
                     "combo": 1075,
                     "id": "_map_EnvyLuvsMelancholy_G",
-                    "level": 14,
+                    "level": 15,
                     "LevelName": 4
                 }
             ]
@@ -7671,7 +7851,7 @@
                 {
                     "combo": 750,
                     "id": "_map_SECONDEDWORLD_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -7694,13 +7874,13 @@
                 {
                     "combo": 579,
                     "id": "_map_petalstep_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
                     "combo": 1013,
                     "id": "_map_petalstep_M",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 3
                 }
             ]
@@ -7787,7 +7967,7 @@
                 {
                     "combo": 1111,
                     "id": "_map_PUPA_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -7828,7 +8008,7 @@
                 {
                     "combo": 732,
                     "id": "_map_Kosashite_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -7921,7 +8101,7 @@
                 {
                     "combo": 1340,
                     "id": "_map_OrientalLandscape_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -7938,13 +8118,13 @@
                 {
                     "combo": 917,
                     "id": "_map_Xetta_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
                     "combo": 1263,
                     "id": "_map_Xetta_M",
-                    "level": 13,
+                    "level": 14,
                     "LevelName": 3
                 },
                 {
@@ -8124,7 +8304,7 @@
                 {
                     "combo": 766,
                     "id": "_map_Kumoru_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -8141,7 +8321,7 @@
                 {
                     "combo": 250,
                     "id": "_map_OwnTheNight_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -8182,7 +8362,7 @@
                 {
                     "combo": 1243,
                     "id": "_map_Emulisy_G",
-                    "level": 14,
+                    "level": 15,
                     "LevelName": 4
                 }
             ]
@@ -8205,7 +8385,7 @@
                 {
                     "combo": 1046,
                     "id": "_map_JOACHIMD_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -8385,19 +8565,19 @@
                 {
                     "combo": 530,
                     "id": "_map_TimeAndSpace_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
                     "combo": 779,
                     "id": "_map_TimeAndSpace_N",
-                    "level": 6,
+                    "level": 7,
                     "LevelName": 1
                 },
                 {
                     "combo": 1137,
                     "id": "_map_TimeAndSpace_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -8414,13 +8594,13 @@
                 {
                     "combo": 448,
                     "id": "_map_nyarlathotep_N",
-                    "level": 4,
+                    "level": 6,
                     "LevelName": 1
                 },
                 {
                     "combo": 844,
                     "id": "_map_nyarlathotep_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -8449,13 +8629,13 @@
                 {
                     "combo": 166,
                     "id": "_map_AgainstThePseudo_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
                     "combo": 279,
                     "id": "_map_AgainstThePseudo_N",
-                    "level": 6,
+                    "level": 4,
                     "LevelName": 1
                 },
                 {
@@ -8525,7 +8705,7 @@
                 {
                     "combo": 958,
                     "id": "_map_Dement_H",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 2
                 },
                 {
@@ -8688,7 +8868,7 @@
                 {
                     "combo": 906,
                     "id": "_map_Tunnelling_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 }
             ]
@@ -8874,7 +9054,7 @@
                 {
                     "combo": 840,
                     "id": "_map_ArcanaIdola_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 },
                 {
@@ -9008,7 +9188,7 @@
                 {
                     "combo": 991,
                     "id": "_map_Purgatorio_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 }
             ]
@@ -9031,7 +9211,7 @@
                 {
                     "combo": 918,
                     "id": "_map_Defended_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -9095,7 +9275,7 @@
                 {
                     "combo": 319,
                     "id": "_map_toSoar_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -9194,7 +9374,7 @@
                 {
                     "combo": 851,
                     "id": "_map_Pandemik_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 },
                 {
@@ -9217,13 +9397,13 @@
                 {
                     "combo": 439,
                     "id": "_map_MouseRunsforCheese_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
                     "combo": 1023,
                     "id": "_map_MouseRunsforCheese_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 },
                 {
@@ -9368,7 +9548,7 @@
                 {
                     "combo": 450,
                     "id": "_map_BeforeSunrise_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -9409,13 +9589,13 @@
                 {
                     "combo": 397,
                     "id": "_map_SpinMeAround_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
                     "combo": 477,
                     "id": "_map_SpinMeAround_N",
-                    "level": 4,
+                    "level": 6,
                     "LevelName": 1
                 },
                 {
@@ -9438,7 +9618,7 @@
                 {
                     "combo": 379,
                     "id": "_map_RegenerateViolence_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -9450,7 +9630,7 @@
                 {
                     "combo": 1198,
                     "id": "_map_RegenerateViolence_M",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 3
                 }
             ]
@@ -9467,7 +9647,7 @@
                 {
                     "combo": 491,
                     "id": "_map_marionDOTnet_N",
-                    "level": 4,
+                    "level": 5,
                     "LevelName": 1
                 },
                 {
@@ -9543,7 +9723,7 @@
                 {
                     "combo": 882,
                     "id": "_map_DeaDLiNE_H",
-                    "level": 9,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -9595,7 +9775,7 @@
                 {
                     "combo": 463,
                     "id": "_map_evoltex_N",
-                    "level": 6,
+                    "level": 7,
                     "LevelName": 1
                 },
                 {
@@ -9670,7 +9850,7 @@
                 {
                     "combo": 703,
                     "id": "_map_aterlbus_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -9705,7 +9885,7 @@
                 {
                     "combo": 617,
                     "id": "_map_rabiribi_H",
-                    "level": 10,
+                    "level": 8,
                     "LevelName": 2
                 },
                 {
@@ -9728,13 +9908,13 @@
                 {
                     "combo": 513,
                     "id": "_map_soularmy_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
                     "combo": 944,
                     "id": "_map_soularmy_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -9763,13 +9943,13 @@
                 {
                     "combo": 671,
                     "id": "_map_CervelleConnexion_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
                     "combo": 1061,
                     "id": "_map_CervelleConnexion_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -9792,7 +9972,7 @@
                 {
                     "combo": 910,
                     "id": "_map_starbirdsofzenithblue_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -9885,7 +10065,7 @@
                 {
                     "combo": 973,
                     "id": "_map_vanillasky_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -9920,7 +10100,7 @@
                 {
                     "combo": 850,
                     "id": "_map_akizakura_H",
-                    "level": 9,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -9984,13 +10164,13 @@
                 {
                     "combo": 401,
                     "id": "_map_Persephone_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
                     "combo": 918,
                     "id": "_map_Persephone_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 },
                 {
@@ -10048,7 +10228,7 @@
                 {
                     "combo": 430,
                     "id": "_map_crankup_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -10060,7 +10240,7 @@
                 {
                     "combo": 611,
                     "id": "_map_crankup_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -10159,7 +10339,7 @@
                 {
                     "combo": 829,
                     "id": "_map_goemon_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 },
                 {
@@ -10223,7 +10403,7 @@
                 {
                     "combo": 772,
                     "id": "_map_Chrysoberyl_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -10310,7 +10490,7 @@
                 {
                     "combo": 326,
                     "id": "_map_playaday_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -10322,7 +10502,7 @@
                 {
                     "combo": 703,
                     "id": "_map_playaday_H",
-                    "level": 7,
+                    "level": 8,
                     "LevelName": 2
                 }
             ]
@@ -10391,7 +10571,7 @@
                 {
                     "combo": 583,
                     "id": "_map_EvilsWasComing_N",
-                    "level": 5,
+                    "level": 6,
                     "LevelName": 1
                 }
             ]
@@ -10408,7 +10588,7 @@
                 {
                     "combo": 968,
                     "id": "_map_Ornament_H",
-                    "level": 7,
+                    "level": 8,
                     "LevelName": 2
                 }
             ]
@@ -10425,7 +10605,7 @@
                 {
                     "combo": 851,
                     "id": "_map_reversive_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -10442,7 +10622,7 @@
                 {
                     "combo": 651,
                     "id": "_map_Utopia_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 }
             ]
@@ -10527,7 +10707,7 @@
                 {
                     "combo": 1358,
                     "id": "_map_Prime_G",
-                    "level": 14,
+                    "level": 15,
                     "LevelName": 4
                 }
             ]
@@ -10665,7 +10845,7 @@
                 {
                     "combo": 950,
                     "id": "_map_Actinium_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 }
             ]
@@ -10729,7 +10909,7 @@
                 {
                     "combo": 611,
                     "id": "_map_Meng4Mou4_H",
-                    "level": 7,
+                    "level": 8,
                     "LevelName": 2
                 },
                 {
@@ -10752,7 +10932,7 @@
                 {
                     "combo": 269,
                     "id": "_map_HongKongMagician_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -10764,13 +10944,13 @@
                 {
                     "combo": 1022,
                     "id": "_map_HongKongMagician_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
                     "combo": 1089,
                     "id": "_map_HongKongMagician_M",
-                    "level": 12,
+                    "level": 13,
                     "LevelName": 3
                 }
             ]
@@ -10822,7 +11002,7 @@
                 {
                     "combo": 608,
                     "id": "_map_outerspace_B",
-                    "level": 1,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -10834,7 +11014,7 @@
                 {
                     "combo": 971,
                     "id": "_map_outerspace_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -10903,7 +11083,7 @@
                 {
                     "combo": 1491,
                     "id": "_map_moonlight_M",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 3
                 }
             ]
@@ -10961,7 +11141,7 @@
                 {
                     "combo": 564,
                     "id": "_map_rave-olution_H",
-                    "level": 7,
+                    "level": 8,
                     "LevelName": 2
                 }
             ]
@@ -10978,7 +11158,7 @@
                 {
                     "combo": 373,
                     "id": "_map_Phoebe_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -11036,19 +11216,19 @@
                 {
                     "combo": 365,
                     "id": "_map_ceng1fong1_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
                     "combo": 424,
                     "id": "_map_ceng1fong1_N",
-                    "level": 4,
+                    "level": 5,
                     "LevelName": 1
                 },
                 {
                     "combo": 716,
                     "id": "_map_ceng1fong1_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 }
             ]
@@ -11094,13 +11274,13 @@
                 {
                     "combo": 1067,
                     "id": "_map_Vengeance_H",
-                    "level": 9,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
                     "combo": 1231,
                     "id": "_map_Vengeance_M",
-                    "level": 13,
+                    "level": 14,
                     "LevelName": 3
                 }
             ]
@@ -11146,7 +11326,7 @@
                 {
                     "combo": 1061,
                     "id": "_map_little_boy_G",
-                    "level": 14,
+                    "level": 13,
                     "LevelName": 4
                 }
             ]
@@ -11262,7 +11442,7 @@
                 {
                     "combo": 569,
                     "id": "_map_MidnightParty_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -11274,7 +11454,7 @@
                 {
                     "combo": 823,
                     "id": "_map_MidnightParty_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -11337,7 +11517,7 @@
                 {
                     "combo": 412,
                     "id": "_map_WonderfulDays_B",
-                    "level": 1,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
@@ -11349,7 +11529,7 @@
                 {
                     "combo": 792,
                     "id": "_map_WonderfulDays_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -11389,7 +11569,7 @@
                 {
                     "combo": 317,
                     "id": "_map_Firefly_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -11546,7 +11726,7 @@
                 {
                     "combo": 802,
                     "id": "_map_GrapeJelly_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -11563,7 +11743,7 @@
                 {
                     "combo": 453,
                     "id": "_map_Aegis_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
@@ -11610,7 +11790,7 @@
                 {
                     "combo": 665,
                     "id": "_map_Forsaken_H",
-                    "level": 7,
+                    "level": 8,
                     "LevelName": 2
                 },
                 {
@@ -11633,7 +11813,7 @@
                 {
                     "combo": 325,
                     "id": "_map_fierceHeart_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -11668,7 +11848,7 @@
                 {
                     "combo": 487,
                     "id": "_map_Goldelius_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -11680,7 +11860,7 @@
                 {
                     "combo": 1095,
                     "id": "_map_Goldelius_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 }
             ]
@@ -11778,13 +11958,13 @@
                 {
                     "combo": 626,
                     "id": "_map_GalliumArsenide_B",
-                    "level": 2,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
                     "combo": 850,
                     "id": "_map_GalliumArsenide_N",
-                    "level": 4,
+                    "level": 6,
                     "LevelName": 1
                 },
                 {
@@ -11813,7 +11993,7 @@
                 {
                     "combo": 470,
                     "id": "_map_GalliumPhosphide_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
@@ -11825,7 +12005,7 @@
                 {
                     "combo": 992,
                     "id": "_map_GalliumPhosphide_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 },
                 {
@@ -11866,7 +12046,7 @@
                 {
                     "combo": 922,
                     "id": "_map_GalliumNitride_M",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 3
                 }
             ]
@@ -11895,7 +12075,7 @@
                 {
                     "combo": 1075,
                     "id": "_map_elphsSadness_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -11959,7 +12139,7 @@
                 {
                     "combo": 621,
                     "id": "_map_lunar_arrow_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -11988,7 +12168,7 @@
                 {
                     "combo": 900,
                     "id": "_map_oracle_N",
-                    "level": 7,
+                    "level": 8,
                     "LevelName": 1
                 },
                 {
@@ -12081,7 +12261,7 @@
                 {
                     "combo": 224,
                     "id": "_map_setfree_N",
-                    "level": 5,
+                    "level": 4,
                     "LevelName": 1
                 },
                 {
@@ -12110,7 +12290,7 @@
                 {
                     "combo": 1071,
                     "id": "_map_will_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 }
             ]
@@ -12133,7 +12313,7 @@
                 {
                     "combo": 601,
                     "id": "_map_creaters_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -12150,13 +12330,13 @@
                 {
                     "combo": 768,
                     "id": "_map_Invaded_N",
-                    "level": 6,
+                    "level": 7,
                     "LevelName": 1
                 },
                 {
                     "combo": 983,
                     "id": "_map_Invaded_H",
-                    "level": 9,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -12214,13 +12394,13 @@
                 {
                     "combo": 678,
                     "id": "_map_hemisphere_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 },
                 {
                     "combo": 869,
                     "id": "_map_hemisphere_M",
-                    "level": 14,
+                    "level": 15,
                     "LevelName": 3
                 }
             ]
@@ -12290,7 +12470,7 @@
                 {
                     "combo": 1149,
                     "id": "_map_variance_G",
-                    "level": 14,
+                    "level": 13,
                     "LevelName": 4
                 }
             ]
@@ -12354,7 +12534,7 @@
                 {
                     "combo": 492,
                     "id": "_map_80_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -12441,7 +12621,7 @@
                 {
                     "combo": 524,
                     "id": "_map_rom_corruption_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
@@ -12453,7 +12633,7 @@
                 {
                     "combo": 1058,
                     "id": "_map_rom_corruption_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -12505,7 +12685,7 @@
                 {
                     "combo": 203,
                     "id": "_map_HorseWhite_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -12546,7 +12726,7 @@
                 {
                     "combo": 339,
                     "id": "_map_HorseRed_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -12599,7 +12779,7 @@
                 {
                     "combo": 928,
                     "id": "_map_HorseBlack_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -12628,7 +12808,7 @@
                 {
                     "combo": 395,
                     "id": "_map_HorseGrey_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -12710,7 +12890,7 @@
                 {
                     "combo": 838,
                     "id": "_map_DeadlyPoppyField_H",
-                    "level": 7,
+                    "level": 8,
                     "LevelName": 2
                 }
             ]
@@ -12756,7 +12936,7 @@
                 {
                     "combo": 200,
                     "id": "_map_StarPrincess_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -12802,13 +12982,13 @@
                 {
                     "combo": 149,
                     "id": "_map_Yotta_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
                     "combo": 224,
                     "id": "_map_Yotta_N",
-                    "level": 6,
+                    "level": 5,
                     "LevelName": 1
                 },
                 {
@@ -12837,7 +13017,7 @@
                 {
                     "combo": 481,
                     "id": "_map_Libra_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
@@ -12907,7 +13087,7 @@
                 {
                     "combo": 589,
                     "id": "_map_CruX_B",
-                    "level": 4,
+                    "level": 5,
                     "LevelName": 0
                 },
                 {
@@ -12983,7 +13163,7 @@
                 {
                     "combo": 1184,
                     "id": "_map_Dyspnea_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -13076,7 +13256,7 @@
                 {
                     "combo": 1102,
                     "id": "_map_FengZeoi_M",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 3
                 }
             ]
@@ -13186,7 +13366,7 @@
                 {
                     "combo": 648,
                     "id": "_map_Danse_de_Romani_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -13198,7 +13378,7 @@
                 {
                     "combo": 1344,
                     "id": "_map_Danse_de_Romani_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -13221,7 +13401,7 @@
                 {
                     "combo": 541,
                     "id": "_map_contour_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -13233,7 +13413,7 @@
                 {
                     "combo": 1242,
                     "id": "_map_contour_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 }
             ]
@@ -13262,7 +13442,7 @@
                 {
                     "combo": 1122,
                     "id": "_map_makemewonder_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -13279,7 +13459,7 @@
                 {
                     "combo": 440,
                     "id": "_map_wah_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
@@ -13349,7 +13529,7 @@
                 {
                     "combo": 1045,
                     "id": "_map_nickoftime_H",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 2
                 }
             ]
@@ -13366,7 +13546,7 @@
                 {
                     "combo": 421,
                     "id": "_map_metheus_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
@@ -13401,7 +13581,7 @@
                 {
                     "combo": 196,
                     "id": "_map_finalDash_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -13535,7 +13715,7 @@
                 {
                     "combo": 661,
                     "id": "_map_YuenNoHisutorika_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -13599,7 +13779,7 @@
                 {
                     "combo": 1273,
                     "id": "_map_stage5_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -13680,7 +13860,7 @@
                 {
                     "combo": 204,
                     "id": "_map_nible_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -13721,7 +13901,7 @@
                 {
                     "combo": 903,
                     "id": "_map_trajectory_H",
-                    "level": 9,
+                    "level": 11,
                     "LevelName": 2
                 }
             ]
@@ -13738,7 +13918,7 @@
                 {
                     "combo": 365,
                     "id": "_map_galaxia_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
@@ -13750,7 +13930,7 @@
                 {
                     "combo": 894,
                     "id": "_map_galaxia_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 },
                 {
@@ -13773,7 +13953,7 @@
                 {
                     "combo": 134,
                     "id": "_map_teardrops_B",
-                    "level": 2,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -13855,7 +14035,7 @@
                 {
                     "combo": 1314,
                     "id": "_map_8BitGoa4_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -13890,7 +14070,7 @@
                 {
                     "combo": 978,
                     "id": "_map_Nanohemu_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -13977,7 +14157,7 @@
                 {
                     "combo": 290,
                     "id": "_map_sekaiSeifuku_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -14186,7 +14366,7 @@
                 {
                     "combo": 679,
                     "id": "_map_HeartEyes_B",
-                    "level": 2,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
@@ -14221,7 +14401,7 @@
                 {
                     "combo": 379,
                     "id": "_map_WhiteChocolate_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -14291,7 +14471,7 @@
                 {
                     "combo": 812,
                     "id": "_map_SuperMacaron_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 },
                 {
@@ -14355,7 +14535,7 @@
                 {
                     "combo": 457,
                     "id": "_map_BloodChivalry_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
@@ -14425,7 +14605,7 @@
                 {
                     "combo": 400,
                     "id": "_map_MetropolitanChaser_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -14460,7 +14640,7 @@
                 {
                     "combo": 324,
                     "id": "_map_EssenceOfTwilight_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -14489,7 +14669,7 @@
                 {
                     "combo": 354,
                     "id": "_map_PartyVinyl_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
@@ -14600,7 +14780,7 @@
                 {
                     "combo": 1019,
                     "id": "_map_AbsoluteZero_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 }
             ]
@@ -14699,7 +14879,7 @@
                 {
                     "combo": 1049,
                     "id": "_map_Melancholy_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 }
             ]
@@ -14786,7 +14966,7 @@
                 {
                     "combo": 625,
                     "id": "_map_Termination_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -14809,7 +14989,7 @@
                 {
                     "combo": 270,
                     "id": "_map_Yoyoyoyo_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -14821,7 +15001,7 @@
                 {
                     "combo": 704,
                     "id": "_map_Yoyoyoyo_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -14850,7 +15030,7 @@
                 {
                     "combo": 1005,
                     "id": "_map_Catastrophe_H",
-                    "level": 9,
+                    "level": 10,
                     "LevelName": 2
                 },
                 {
@@ -14885,7 +15065,7 @@
                 {
                     "combo": 732,
                     "id": "_map_Convictor_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -14989,7 +15169,7 @@
                 {
                     "combo": 212,
                     "id": "_map_TronicaAndFugue_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -15053,7 +15233,7 @@
                 {
                     "combo": 197,
                     "id": "_map_Nachtmusik_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -15082,7 +15262,7 @@
                 {
                     "combo": 192,
                     "id": "_map_HDHR_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -15094,7 +15274,7 @@
                 {
                     "combo": 571,
                     "id": "_map_HDHR_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -15216,7 +15396,7 @@
                 {
                     "combo": 108,
                     "id": "_map_InSearchOf_B",
-                    "level": 2,
+                    "level": 1,
                     "LevelName": 0
                 },
                 {
@@ -15228,7 +15408,7 @@
                 {
                     "combo": 562,
                     "id": "_map_InSearchOf_H",
-                    "level": 10,
+                    "level": 8,
                     "LevelName": 2
                 },
                 {
@@ -15263,7 +15443,7 @@
                 {
                     "combo": 797,
                     "id": "_map_TheMysteriousMan_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -15298,7 +15478,7 @@
                 {
                     "combo": 857,
                     "id": "_map_Dogu_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 }
             ]
@@ -15402,7 +15582,7 @@
                 {
                     "combo": 170,
                     "id": "_map_PavedGarden_B",
-                    "level": 3,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -15449,7 +15629,7 @@
                 {
                     "combo": 819,
                     "id": "_map_CrossingDelta_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -15472,7 +15652,7 @@
                 {
                     "combo": 308,
                     "id": "_map_WhiteRevolve_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -15525,7 +15705,7 @@
                 {
                     "combo": 994,
                     "id": "_map_Mitochondria_M",
-                    "level": 13,
+                    "level": 14,
                     "LevelName": 3
                 }
             ]
@@ -15583,7 +15763,7 @@
                 {
                     "combo": 932,
                     "id": "_map_ReLyna_H",
-                    "level": 10,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -15641,13 +15821,13 @@
                 {
                     "combo": 1108,
                     "id": "_map_Euouae_N",
-                    "level": 9,
+                    "level": 8,
                     "LevelName": 1
                 },
                 {
                     "combo": 1323,
                     "id": "_map_Euouae_H",
-                    "level": 12,
+                    "level": 11,
                     "LevelName": 2
                 },
                 {
@@ -15717,7 +15897,7 @@
                 {
                     "combo": 1208,
                     "id": "_map_MassacrE3rc4224M_H",
-                    "level": 13,
+                    "level": 12,
                     "LevelName": 2
                 },
                 {
@@ -15758,7 +15938,7 @@
                 {
                     "combo": 1135,
                     "id": "_map_Luxvinore_H",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -15781,13 +15961,13 @@
                 {
                     "combo": 393,
                     "id": "_map_PlasmaPlusPlatinum_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
                     "combo": 499,
                     "id": "_map_PlasmaPlusPlatinum_N",
-                    "level": 4,
+                    "level": 5,
                     "LevelName": 1
                 },
                 {
@@ -15851,13 +16031,13 @@
                 {
                     "combo": 333,
                     "id": "_map_AngstlicherVermeidender_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
                     "combo": 892,
                     "id": "_map_AngstlicherVermeidender_H",
-                    "level": 7,
+                    "level": 8,
                     "LevelName": 2
                 },
                 {
@@ -15880,19 +16060,19 @@
                 {
                     "combo": 908,
                     "id": "_map_MarshWinds_B",
-                    "level": 3,
+                    "level": 5,
                     "LevelName": 0
                 },
                 {
                     "combo": 1112,
                     "id": "_map_MarshWinds_N",
-                    "level": 8,
+                    "level": 9,
                     "LevelName": 1
                 },
                 {
                     "combo": 1306,
                     "id": "_map_MarshWinds_H",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 2
                 },
                 {
@@ -15927,7 +16107,7 @@
                 {
                     "combo": 1749,
                     "id": "_map_RondoOfThe3nd_H",
-                    "level": 11,
+                    "level": 12,
                     "LevelName": 2
                 },
                 {
@@ -15950,7 +16130,7 @@
                 {
                     "combo": 376,
                     "id": "_map_RestrictedAccess_B",
-                    "level": 1,
+                    "level": 2,
                     "LevelName": 0
                 },
                 {
@@ -15997,7 +16177,7 @@
                 {
                     "combo": 927,
                     "id": "_map_SuttaMonday_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -16020,13 +16200,13 @@
                 {
                     "combo": 534,
                     "id": "_map_LingHaoCheLiang_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
                     "combo": 894,
                     "id": "_map_LingHaoCheLiang_N",
-                    "level": 7,
+                    "level": 8,
                     "LevelName": 1
                 },
                 {
@@ -16073,7 +16253,7 @@
                 {
                     "combo": 811,
                     "id": "_map_TurningPOINT_H",
-                    "level": 10,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -16096,7 +16276,7 @@
                 {
                     "combo": 388,
                     "id": "_map_LucidTrigger_B",
-                    "level": 2,
+                    "level": 3,
                     "LevelName": 0
                 },
                 {
@@ -16131,13 +16311,13 @@
                 {
                     "combo": 521,
                     "id": "_map_Hiyaiya_B",
-                    "level": 3,
+                    "level": 4,
                     "LevelName": 0
                 },
                 {
                     "combo": 838,
                     "id": "_map_Hiyaiya_N",
-                    "level": 6,
+                    "level": 7,
                     "LevelName": 1
                 },
                 {
@@ -16156,5 +16336,5 @@
         }
     },
     "ver": "3.18.00",
-    "updateTime": "2024-05-04 16:52:25"
+    "updateTime": "2024-07-06 12:40:53"
 }
