@@ -1,5 +1,17 @@
 {
     "id": [
+        "Circumscription",
+        "BeyondtheRainbow",
+        "FarEasternFlavor",
+        "GrimoireHeart",
+        "AndLadix",
+        "WING",
+        "TYPERebellion",
+        "LOVE",
+        "Mamba",
+        "scualee",
+        "frerejacques",
+        "HOPE2",
         "ResonanceOfSoul",
         "BonusTime",
         "WutheringWind",
@@ -520,6 +532,384 @@
         "Hiyaiya"
     ],
     "Songs": {
+        "Circumscription": {
+            "id": "_song_Circumscription",
+            "Name": "Circumscription",
+            "BPM": 210.0,
+            "Genre": "Hardcore",
+            "Author": "CS4W",
+            "PreviewAudio": "_preview_Circumscription",
+            "Cover": "_cover_Circumscription",
+            "Maps": [
+                {
+                    "combo": 557,
+                    "id": "_map_Circumscription_N",
+                    "level": 7,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 1338,
+                    "id": "_map_Circumscription_M",
+                    "level": 14,
+                    "LevelName": 3
+                },
+                {
+                    "combo": 1701,
+                    "id": "_map_Circumscription_G",
+                    "level": 15,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "BeyondtheRainbow": {
+            "id": "_song_BeyondtheRainbow",
+            "Name": "Beyond the Rainbow",
+            "BPM": 216.0,
+            "Genre": "Hardcore",
+            "Author": "大豆使徒(打打だいず+seatrus)",
+            "PreviewAudio": "_preview_BeyondtheRainbow",
+            "Cover": "_cover_BeyondtheRainbow",
+            "Maps": [
+                {
+                    "combo": 974,
+                    "id": "_map_BeyondtheRainbow_N",
+                    "level": 9,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 1152,
+                    "id": "_map_BeyondtheRainbow_H",
+                    "level": 13,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1487,
+                    "id": "_map_BeyondtheRainbow_M",
+                    "level": 15,
+                    "LevelName": 3
+                },
+                {
+                    "combo": 1612,
+                    "id": "_map_BeyondtheRainbow_G",
+                    "level": 15,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "FarEasternFlavor": {
+            "id": "_song_FarEasternFlavor",
+            "Name": "Far Eastern Flavor",
+            "BPM": 186.0,
+            "Genre": "Oriental Core",
+            "Author": "Night Yard",
+            "PreviewAudio": "_preview_FarEasternFlavor",
+            "Cover": "_cover_FarEasternFlavor",
+            "Maps": [
+                {
+                    "combo": 664,
+                    "id": "_map_FarEasternFlavor_N",
+                    "level": 6,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 984,
+                    "id": "_map_FarEasternFlavor_H",
+                    "level": 8,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1305,
+                    "id": "_map_FarEasternFlavor_M",
+                    "level": 12,
+                    "LevelName": 3
+                }
+            ]
+        },
+        "GrimoireHeart": {
+            "id": "_song_GrimoireHeart",
+            "Name": "Grimoire Heart",
+            "BPM": 200.0,
+            "Genre": "Frenchcore",
+            "Author": "桃源郷華",
+            "PreviewAudio": "_preview_GrimoireHeart",
+            "Cover": "_cover_GrimoireHeart",
+            "Maps": [
+                {
+                    "combo": 262,
+                    "id": "_map_GrimoireHeart_B",
+                    "level": 1,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 574,
+                    "id": "_map_GrimoireHeart_N",
+                    "level": 6,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 1120,
+                    "id": "_map_GrimoireHeart_M",
+                    "level": 13,
+                    "LevelName": 3
+                },
+                {
+                    "combo": 1369,
+                    "id": "_map_GrimoireHeart_G",
+                    "level": 14,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "AndLadix": {
+            "id": "_song_AndLadix",
+            "Name": "AndLadix",
+            "BPM": 181.0,
+            "Genre": "Drum and Bass",
+            "Author": "ADA vs Halv",
+            "PreviewAudio": "_preview_AndLadix",
+            "Cover": "_cover_AndLadix",
+            "Maps": [
+                {
+                    "combo": 523,
+                    "id": "_map_AndLadix_N",
+                    "level": 4,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 988,
+                    "id": "_map_AndLadix_H",
+                    "level": 9,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1223,
+                    "id": "_map_AndLadix_M",
+                    "level": 13,
+                    "LevelName": 3
+                }
+            ]
+        },
+        "WING": {
+            "id": "_song_WING",
+            "Name": "WING",
+            "BPM": 200.0,
+            "Genre": "Hardcore",
+            "Author": "Notorious(Nota & TRIAL)",
+            "PreviewAudio": "_preview_WING",
+            "Cover": "_cover_WING",
+            "Maps": [
+                {
+                    "combo": 356,
+                    "id": "_map_WING_B",
+                    "level": 3,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 618,
+                    "id": "_map_WING_N",
+                    "level": 7,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 939,
+                    "id": "_map_WING_H",
+                    "level": 11,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1069,
+                    "id": "_map_WING_M",
+                    "level": 12,
+                    "LevelName": 3
+                }
+            ]
+        },
+        "TYPERebellion": {
+            "id": "_song_TYPERebellion",
+            "Name": "TYPE-Rebellion",
+            "BPM": 180.0,
+            "Genre": "Hardcore",
+            "Author": "Aoi",
+            "PreviewAudio": "_preview_TYPERebellion",
+            "Cover": "_cover_TYPERebellion",
+            "Maps": [
+                {
+                    "combo": 630,
+                    "id": "_map_TYPERebellion_N",
+                    "level": 6,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 981,
+                    "id": "_map_TYPERebellion_H",
+                    "level": 8,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1388,
+                    "id": "_map_TYPERebellion_M",
+                    "level": 12,
+                    "LevelName": 3
+                },
+                {
+                    "combo": 1654,
+                    "id": "_map_TYPERebellion_G",
+                    "level": 15,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "LOVE": {
+            "id": "_song_LOVE",
+            "Name": "LOVE",
+            "BPM": 200.0,
+            "Genre": "Hardcore",
+            "Author": "Notorious(Nota & TRIAL)",
+            "PreviewAudio": "_preview_LOVE",
+            "Cover": "_cover_LOVE",
+            "Maps": [
+                {
+                    "combo": 467,
+                    "id": "_map_LOVE_B",
+                    "level": 3,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 893,
+                    "id": "_map_LOVE_H",
+                    "level": 8,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1066,
+                    "id": "_map_LOVE_M",
+                    "level": 12,
+                    "LevelName": 3
+                }
+            ]
+        },
+        "Mamba": {
+            "id": "_song_Mamba",
+            "Name": "Mamba",
+            "BPM": 180.0,
+            "Genre": "Neurofunk",
+            "Author": "Takahiro Aoki",
+            "PreviewAudio": "_preview_Mamba",
+            "Cover": "_cover_Mamba",
+            "Maps": [
+                {
+                    "combo": 713,
+                    "id": "_map_Mamba_N",
+                    "level": 6,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 1240,
+                    "id": "_map_Mamba_H",
+                    "level": 11,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1317,
+                    "id": "_map_Mamba_G",
+                    "level": 14,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "scualee": {
+            "id": "_song_scualee",
+            "Name": "scualee",
+            "BPM": 150.0,
+            "Genre": "Hi-Tech",
+            "Author": "Aoi",
+            "PreviewAudio": "_preview_scualee",
+            "Cover": "_cover_scualee",
+            "Maps": [
+                {
+                    "combo": 168,
+                    "id": "_map_scualee_B",
+                    "level": 1,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 648,
+                    "id": "_map_scualee_N",
+                    "level": 7,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 755,
+                    "id": "_map_scualee_H",
+                    "level": 10,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1500,
+                    "id": "_map_scualee_G",
+                    "level": 15,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "frerejacques": {
+            "id": "_song_frerejacques",
+            "Name": "frerejacques",
+            "BPM": 150.0,
+            "Genre": "Jazz",
+            "Author": "dingerbox",
+            "PreviewAudio": "_preview_frerejacques",
+            "Cover": "_cover_frerejacques",
+            "Maps": [
+                {
+                    "combo": 396,
+                    "id": "_map_frerejacques_B",
+                    "level": 2,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 1058,
+                    "id": "_map_frerejacques_H",
+                    "level": 9,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1451,
+                    "id": "_map_frerejacques_M",
+                    "level": 12,
+                    "LevelName": 3
+                }
+            ]
+        },
+        "HOPE2": {
+            "id": "_song_HOPE2",
+            "Name": "HOPE",
+            "BPM": 200.0,
+            "Genre": "Hardcore",
+            "Author": "Notorious(Nota & TRIAL)",
+            "PreviewAudio": "_preview_HOPE2",
+            "Cover": "_cover_HOPE2",
+            "Maps": [
+                {
+                    "combo": 451,
+                    "id": "_map_HOPE2_B",
+                    "level": 3,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 928,
+                    "id": "_map_HOPE2_H",
+                    "level": 9,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1361,
+                    "id": "_map_HOPE2_M",
+                    "level": 14,
+                    "LevelName": 3
+                }
+            ]
+        },
         "ResonanceOfSoul": {
             "id": "_song_ResonanceOfSoul",
             "Name": "Resonance of Soul",
@@ -940,7 +1330,7 @@
         },
         "FarEastFrontline": {
             "id": "_song_FarEastFrontline",
-            "Name": " Far East Frontline",
+            "Name": "Far East Frontline",
             "BPM": 150.0,
             "Genre": "Full Flavor",
             "Author": "Night Yard",
@@ -6895,6 +7285,12 @@
                     "id": "_map_HolyLightbringer_H",
                     "level": 8,
                     "LevelName": 2
+                },
+                {
+                    "combo": 1105,
+                    "id": "_map_HolyLightbringer_M",
+                    "level": 13,
+                    "LevelName": 3
                 }
             ]
         },
@@ -7040,6 +7436,12 @@
                     "id": "_map_Soul_fire_lit_H",
                     "level": 8,
                     "LevelName": 2
+                },
+                {
+                    "combo": 1059,
+                    "id": "_map_Soul_fire_lit_G",
+                    "level": 14,
+                    "LevelName": 4
                 }
             ]
         },
@@ -9723,7 +10125,7 @@
                 {
                     "combo": 882,
                     "id": "_map_DeaDLiNE_H",
-                    "level": 11,
+                    "level": 9,
                     "LevelName": 2
                 },
                 {
@@ -16336,5 +16738,5 @@
         }
     },
     "ver": "3.18.00",
-    "updateTime": "2024-07-06 12:40:53"
+    "updateTime": "2024-11-03 19:40:01"
 }
