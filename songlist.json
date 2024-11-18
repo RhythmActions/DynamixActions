@@ -1,5 +1,7 @@
 {
     "id": [
+        "RainbowReaper",
+        "SYSTEM_ON",
         "Circumscription",
         "BeyondtheRainbow",
         "FarEasternFlavor",
@@ -532,6 +534,70 @@
         "Hiyaiya"
     ],
     "Songs": {
+        "RainbowReaper": {
+            "id": "_song_RainbowReaper",
+            "Name": "Rainbow Reaper",
+            "BPM": 240.0,
+            "Genre": "Dubcore",
+            "Author": "Attoclef",
+            "PreviewAudio": "_preview_RainbowReaper",
+            "Cover": "_cover_RainbowReaper",
+            "Maps": [
+                {
+                    "combo": 392,
+                    "id": "_map_RainbowReaper_N",
+                    "level": 5,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 910,
+                    "id": "_map_RainbowReaper_H",
+                    "level": 10,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1279,
+                    "id": "_map_RainbowReaper_M",
+                    "level": 13,
+                    "LevelName": 3
+                }
+            ]
+        },
+        "SYSTEM_ON": {
+            "id": "_song_SYSTEM_ON",
+            "Name": "SYSTEM_ON",
+            "BPM": 128.0,
+            "Genre": "Chiptune",
+            "Author": "CROWLiA",
+            "PreviewAudio": "_preview_SYSTEM_ON",
+            "Cover": "_cover_SYSTEM_ON2",
+            "Maps": [
+                {
+                    "combo": 421,
+                    "id": "_map_SYSTEM_ON_B",
+                    "level": 2,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 557,
+                    "id": "_map_SYSTEM_ON_N",
+                    "level": 6,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 931,
+                    "id": "_map_SYSTEM_ON_H",
+                    "level": 9,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1317,
+                    "id": "_map_SYSTEM_ON_M",
+                    "level": 13,
+                    "LevelName": 3
+                }
+            ]
+        },
         "Circumscription": {
             "id": "_song_Circumscription",
             "Name": "Circumscription",
@@ -16738,5 +16804,5 @@
         }
     },
     "ver": "3.18.00",
-    "updateTime": "2024-11-03 19:40:01"
+    "updateTime": "2024-11-18 20:48:56"
 }
