@@ -1,5 +1,9 @@
 {
     "id": [
+        "ReasonOfFallen",
+        "Curtainfall",
+        "Mithridates",
+        "ToDropWeRide",
         "RainbowReaper",
         "SYSTEM_ON",
         "Circumscription",
@@ -534,6 +538,134 @@
         "Hiyaiya"
     ],
     "Songs": {
+        "ReasonOfFallen": {
+            "id": "_song_ReasonOfFallen",
+            "Name": "Reason Of Fallen",
+            "BPM": 145.0,
+            "Genre": "Melodic Trance",
+            "Author": "Liq_mmry",
+            "PreviewAudio": "_preview_ReasonOfFallen",
+            "Cover": "_cover_ReasonOfFallen",
+            "Maps": [
+                {
+                    "combo": 666,
+                    "id": "_map_ReasonOfFallen_N",
+                    "level": 6,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 992,
+                    "id": "_map_ReasonOfFallen_H",
+                    "level": 9,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1398,
+                    "id": "_map_ReasonOfFallen_G",
+                    "level": 15,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "Curtainfall": {
+            "id": "_song_Curtainfall",
+            "Name": "Curtainfall!",
+            "BPM": 208.0,
+            "Genre": "Hardcore",
+            "Author": "Yukikurage",
+            "PreviewAudio": "_preview_Curtainfall",
+            "Cover": "_cover_Curtainfall",
+            "Maps": [
+                {
+                    "combo": 365,
+                    "id": "_map_Curtainfall_B",
+                    "level": 2,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 561,
+                    "id": "_map_Curtainfall_N",
+                    "level": 6,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 975,
+                    "id": "_map_Curtainfall_H",
+                    "level": 10,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1337,
+                    "id": "_map_Curtainfall_M",
+                    "level": 13,
+                    "LevelName": 3
+                },
+                {
+                    "combo": 1450,
+                    "id": "_map_Curtainfall_G",
+                    "level": 15,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "Mithridates": {
+            "id": "_song_Mithridates",
+            "Name": "Mithridates",
+            "BPM": 204.0,
+            "Genre": "Hard Renaissance",
+            "Author": "Cubey",
+            "PreviewAudio": "_preview_Mithridates",
+            "Cover": "_cover_Mithridates",
+            "Maps": [
+                {
+                    "combo": 526,
+                    "id": "_map_Mithridates_N",
+                    "level": 5,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 824,
+                    "id": "_map_Mithridates_H",
+                    "level": 8,
+                    "LevelName": 2
+                },
+                {
+                    "combo": 1344,
+                    "id": "_map_Mithridates_G",
+                    "level": 11,
+                    "LevelName": 4
+                }
+            ]
+        },
+        "ToDropWeRide": {
+            "id": "_song_ToDropWeRide",
+            "Name": "To Drop We Ride",
+            "BPM": 200.0,
+            "Genre": "Hardcore",
+            "Author": "Takahiro Aoki",
+            "PreviewAudio": "_preview_ToDropWeRide",
+            "Cover": "_cover_ToDropWeRide",
+            "Maps": [
+                {
+                    "combo": 267,
+                    "id": "_map_ToDropWeRide_B",
+                    "level": 1,
+                    "LevelName": 0
+                },
+                {
+                    "combo": 509,
+                    "id": "_map_ToDropWeRide_N",
+                    "level": 4,
+                    "LevelName": 1
+                },
+                {
+                    "combo": 1031,
+                    "id": "_map_ToDropWeRide_H",
+                    "level": 10,
+                    "LevelName": 2
+                }
+            ]
+        },
         "RainbowReaper": {
             "id": "_song_RainbowReaper",
             "Name": "Rainbow Reaper",
@@ -567,7 +699,7 @@
             "id": "_song_SYSTEM_ON",
             "Name": "SYSTEM_ON",
             "BPM": 128.0,
-            "Genre": "Chiptune",
+            "Genre": "Bass House",
             "Author": "CROWLiA",
             "PreviewAudio": "_preview_SYSTEM_ON",
             "Cover": "_cover_SYSTEM_ON2",
@@ -16804,5 +16936,5 @@
         }
     },
     "ver": "3.18.00",
-    "updateTime": "2024-11-18 20:48:56"
+    "updateTime": "2025-01-03 14:10:21"
 }
